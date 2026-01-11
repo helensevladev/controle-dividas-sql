@@ -36,6 +36,20 @@ atualizar e remover registros financeiros.
 ### Consulta de dívidas
 ![Consulta](prints/Captura de tela 2026-01-07 15-55-49.png)s
 ## 📸 Prints do Projeto
+## Dashboard no Power BI
 
+Este projeto inclui um dashboard desenvolvido no Power BI
+para análise de dívidas pessoais.
+
+O dashboard apresenta:
+- Total de dívidas
+- Total pago
+- Total em aberto
+- Análise por categoria
+- Filtro interativo por tipo de dívida
+
+📊 Arquivo Power BI:
+- dashboard-controle-dividas.pbix
 ### Consulta de dívidas
+
 ![Consulta de dívidas](prints/Captura de tela 2026-01-07 15-55-49.png)
